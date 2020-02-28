@@ -4,8 +4,12 @@ Python script that automatically translate whatever you copy to your clipboard u
 
 ## How to use
 
-Just [download](https://github.com/Elynejs/highlightranslator/releases/download/1.0/highlightranslator.exe) the release from github and run the .exe file
+Just [download](https://github.com/Elynejs/highlightranslator/releases) the release from github and run the .exe file
 
 ### Commands
 
-Use ctrl+c to translate anything you highlited with your mouse and use tab+space to quit the script
+Use ctrl+c to translate anything you highlited with your mouse
+
+### Closing the script
+
+The key binding is currently broken, you have to manualy kill the script in your task manager
