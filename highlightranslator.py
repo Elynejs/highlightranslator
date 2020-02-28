@@ -23,5 +23,7 @@ while True:
             T.config(yscrollcommand=S.set)
             T.insert(tk.END, new_text.text)
             tk.mainloop()
+        elif kb.is_pressed('tab+space'):
+            break
     except:
         break
