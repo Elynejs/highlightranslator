@@ -4,7 +4,7 @@ Python script that automatically translate whatever you copy to your clipboard u
 
 ## How to use
 
-Just [download]() the release from github and run the .exe file
+Just [download](https://github.com/Elynejs/highlightranslator/releases/download/1.0/highlightranslator.exe) the release from github and run the .exe file
 
 ### Commands
 
